@@ -1,0 +1,1 @@
+# Menguji Kesepahaman, Konsistensi, menggunakan Cohen's Kappa
